@@ -10,3 +10,4 @@ if __name__ == "__main__":
     print(siguiente(valor))
 
 echo "# Log: añadido comentario 1" >> contador.py
+echo "# Log: añadido comentario 2" >> contador.py
