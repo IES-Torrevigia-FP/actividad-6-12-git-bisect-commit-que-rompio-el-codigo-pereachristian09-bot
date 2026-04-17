@@ -1,0 +1,5 @@
+python contador.py 5
+7
+
+
+Un commit es bueno o es malo si 
