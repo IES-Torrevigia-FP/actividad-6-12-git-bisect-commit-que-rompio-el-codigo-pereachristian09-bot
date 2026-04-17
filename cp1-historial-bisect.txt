@@ -1,0 +1,7 @@
+86e00f0 (HEAD -> main) Añade comentario 3
+2c8c767 Introduce bug en siguiente (suma 2)
+a186719 Añade comentario 2
+b812ff0 Añade comentario 1
+14eae74 Versión inicial correcta de contador
+ca6e556 (origin/main, origin/HEAD) add deadline
+e09799d Initial commit
