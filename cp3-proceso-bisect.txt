@@ -1,0 +1,4 @@
+Biseccionando: falta 1 revisión por probar después de esta (aproximadamente 1 paso)
+[a186719d37cedc48d4ebd3e11bc6bab2b3d18e42] Añade comentario 2
+status: waiting for good commit(s), bad commit know
+No me aparecio el mensaje pero contador.py daba bien la solucion despues de marcar el head como bad y el good como bueno 
